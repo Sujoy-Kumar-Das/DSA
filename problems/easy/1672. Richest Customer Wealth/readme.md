@@ -9,5 +9,5 @@ A customer's wealth is the amount of money they have in all their bank accounts.
 
 - Need to return the sum of the max value from the 2d array. Loop over the first array. Then, inside the first loop, again loop the nested arrays. Then store the total sum value inside the first loop that can be reset after every time the first loop ends. Then store the max value, then return it.
 
-- **Time Complexity:** $O(n)$
+- **Time Complexity:** $O(i*j)$
 - **Space Complexity:** $O(1)$
